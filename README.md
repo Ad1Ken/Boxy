@@ -8,7 +8,7 @@ Game Mechanics:
         Double Click: Double-clicking on a box flips it. This action can change the orientation of the window, allowing you to approach the puzzle from a different angle.
 
     The Window:
-        ```Each box has a small window that acts as a passage. The window must be aligned correctly with adjacent boxes to enable your character to pass through. Your task is to rotate or flip the boxes to align these windows in such a way that your character can move from one box to the next.```
+        Each box has a small window that acts as a passage. The window must be aligned correctly with adjacent boxes to enable your character to pass through. Your task is to rotate or flip the boxes to align these windows in such a way that your character can move from one box to the next.
 
     Strategic Path Creation:
         The game requires careful planning and foresight. As you rotate and flip the boxes, you'll need to think several steps ahead to ensure that each box's window aligns properly, allowing your character to continue progressing toward the flag.
